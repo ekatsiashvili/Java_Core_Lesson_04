@@ -1,4 +1,4 @@
-package ua.lviv.lgs;
+package part_1;
 
 public class RobotDancer extends Robot {
 

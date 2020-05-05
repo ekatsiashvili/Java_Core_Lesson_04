@@ -1,4 +1,4 @@
-package ua.lviv.lgs;
+package part_2;
 
 public class App {
 
